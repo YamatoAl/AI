@@ -1,0 +1,3 @@
+1.使用AIWork_2_9.bat即可進行編譯和執行
+2.更改test.txt檔即可更換輸入
+3.若因java版本不符而無法編譯時請先刪除AIWork_2_9.class再重新執行bat檔案

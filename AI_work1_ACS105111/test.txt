@@ -1,0 +1,8 @@
+[A, Clean]
+[A, Dirty]
+[B, Clean]
+[B, Dirty]
+[A, Clean], [A, Clean]
+[A, Clean], [A, Dirty]
+[A, Clean], [A, Clean], [A, Clean]
+[A, Clean], [A, Clean], [A, Dirty]
